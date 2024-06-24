@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/contatos.git/static/css/main.db62923b.css",
-    "main.js": "/contatos.git/static/js/main.17e39d0c.js",
-    "index.html": "/contatos.git/index.html",
-    "main.db62923b.css.map": "/contatos.git/static/css/main.db62923b.css.map",
-    "main.17e39d0c.js.map": "/contatos.git/static/js/main.17e39d0c.js.map"
+    "main.css": "/contatos/static/css/main.db62923b.css",
+    "main.js": "/contatos/static/js/main.43bc5f4f.js",
+    "index.html": "/contatos/index.html",
+    "main.db62923b.css.map": "/contatos/static/css/main.db62923b.css.map",
+    "main.43bc5f4f.js.map": "/contatos/static/js/main.43bc5f4f.js.map"
   },
   "entrypoints": [
     "static/css/main.db62923b.css",
-    "static/js/main.17e39d0c.js"
+    "static/js/main.43bc5f4f.js"
   ]
 }
